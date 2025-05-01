@@ -1,5 +1,6 @@
-Chip Information Extractor (CHIE)
-By VL, 2019
+Forked from: Chip Information Extractor (CHIE) By VL, 2019
+
+ChipWhiz
 
 This program tries to extract information about internal hardware and software
 components of various PC devices. Primarily USB/SATA/etc disk devices at this moment.
